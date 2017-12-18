@@ -1,0 +1,12 @@
+  #map {
+    width: 900px;
+    height: 1000px;
+  	background-color: grey;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  }
+
+  .color {
+  	background-color: #26a69a;
+  }
